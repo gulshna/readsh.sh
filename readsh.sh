@@ -4,5 +4,5 @@ echo "this is  repo2 test"
 echo "there is new parmeter $PASSWD"
 NUM=$(($FIRSTNUM + $SECONDNUM))
 echo "$NUM"
-echo "it is the sum test1"
+echo "it is the sum"
 echo "Hi welcome rider"
