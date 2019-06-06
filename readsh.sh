@@ -5,4 +5,4 @@ echo "there is new parmeter $PASSWD"
 NUM=$(($FIRSTNUM + $SECONDNUM))
 echo "$NUM"
 echo "it is the sum test"
-echo "Hi welcome"
+echo "Hi welcome rider"
